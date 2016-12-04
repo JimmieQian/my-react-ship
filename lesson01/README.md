@@ -15,7 +15,8 @@ ReactJS 是 Facebook 推出的 JavaScript 函式庫.它的的目标是: `Learn o
 具有 `封裝（encapsulation）` 、 `注重分离 (Separation of Concerns)`、`可复用 (Reuse)` 、`易于维护` 等特点
 react中的两类组件
 
-1. 状态组件 `stateless components` 继承自 `React.Component`,有状态的改变和自己的生命周期
+1.  状态组件 `stateless components` 继承自 `React.Component`,有状态的改变和自己的生命周期
+
 ```javascript
 //  采用es6+ 的语法规则来编写
 // es5 使用 React.createClass 来创建组件
@@ -34,6 +35,7 @@ ReactDOM.render(<MyComponent/>, document.getElementById('app'));
 
 2. 非状态组件 `Functional Component` ,没有状态,ref 和 生命周期
 (资源消耗小于 状态组件 , 所以能用 非状态组件 尽量使用)
+
 ```javascript
 // 可操作props,打不可操作state
 // 要有return UI元素
