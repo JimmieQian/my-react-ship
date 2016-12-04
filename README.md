@@ -3,5 +3,8 @@
 主要记录了,笔者学习react的一些学习笔记
 # 目录
 
-* 前言(简介)
+*  [前言Ⅰ(React简介)][1]
 * react环境搭建
+
+
+  [1]: https://github.com/JimmieQian/my-react-ship/tree/master/lesson01

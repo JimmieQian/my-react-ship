@@ -1,4 +1,4 @@
-# 前言Ⅰ(react简介)
+# 前言Ⅰ(React简介)
 
 ReactJS 是 Facebook 推出的 JavaScript 函式庫.它的的目标是: `Learn once, write everywhere` .它的特点主要可以归纳为以下几点:
 * 组件化开发(Component)
@@ -10,6 +10,7 @@ ReactJS 是 Facebook 推出的 JavaScript 函式庫.它的的目标是: `Learn o
 
 ## 组件化开发(Component)
 ![Alt text](./img/component_view.png)
+
 在 React 中最基本的单元为组件（Component），每個组件也可以包含一个以上的子组件，并依照需求组成一个组合式的（Composable）组件.
 具有 `封裝（encapsulation）` 、 `注重分离 (Separation of Concerns)`、`可复用 (Reuse)` 、`易于维护` 等特点
 react中的两类组件
