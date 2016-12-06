@@ -8,6 +8,6 @@
 *  [React 环境构建][3]
 
 
-  [1]: https://github.com/JimmieQian/my-react-ship/tree/master/lesson01
+  [1]: https://github.com/JimmieQian/my-react-ship/tree/master/lesson01/README.md
   [2]: https://github.com/JimmieQian/my-react-ship/tree/master/lesson01/react_tool_intro.md
   [3]: https://github.com/JimmieQian/my-react-ship/tree/master/lesson01/react_build.md
