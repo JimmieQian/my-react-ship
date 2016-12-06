@@ -4,7 +4,10 @@
 # 目录
 
 *  [前言Ⅰ(React简介)][1]
-* react环境搭建
+*  [前言II (React 构建工具介绍)][2]
+*  [React 环境构建][3]
 
 
   [1]: https://github.com/JimmieQian/my-react-ship/tree/master/lesson01
+  [2]: https://github.com/JimmieQian/my-react-ship/tree/master/lesson01/react_tool_intro.md
+  [3]: https://github.com/JimmieQian/my-react-ship/tree/master/lesson01/react_build.md

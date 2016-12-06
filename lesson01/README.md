@@ -93,6 +93,11 @@ const MyComponent = () => (
 1. [ReactJS 与 Component 设计入门介绍][1]
 2. [精益 React 学习指南 （Lean React）- 1.1 React 介绍][2]
 
+----
+| [目录][3] | [下一章:前言II (React 构建工具介绍)][4]  |
+
 
   [1]: https://github.com/carlleton/reactjs101/tree/zh-CN/Ch03
   [2]: https://segmentfault.com/a/1190000005140569
+  [3]: https://github.com/JimmieQian/my-react-ship
+  [4]: https://github.com/JimmieQian/my-react-ship/tree/master/lesson01/react_tool_intro.md
