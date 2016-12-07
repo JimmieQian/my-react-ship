@@ -17,6 +17,7 @@ ES6+ 系指 ES6（ES2015）和 ES7 的联集，在 ES6+ 新的标准当中引入
 
 ## npm
 NPM（Node Package Manager）是 Node.js 下的主流套件管理工具.npm用于下载和管理react相关的依赖包,是构建react环境不可缺少的工具.node.js 中就自带有nmp,所以我们要安装node.
+
 **安装node**
 
 1, 如果安装了nvm,直接使用命令安装node.js
@@ -142,6 +143,9 @@ npm install --save-dev webpack-dev-server
 而ESLint 是一个提供 JavaScript 和 JSX 的程式码检查工具，可以确保团队的程式码品质。
 目前主流的检查规则会使用 Airbnb 所释出的 `Airbnb React/JSX Style Guide`，在使用上需先安装 `eslint-config-airbnb` 等套件。
 
+
+未接触过eslint的,建议阅读: [ESLint 使用入门][11]
+
 ## React Developer Tools
 React Developer Tools是一款由facebook开发的有用的Chrome 浏览器扩展，可以通过 Chrome Web存储获取。使用 Chrome Devtools 进行调试时，可以查看应用程序的 React 组件分层结构.而不是像babel那样,将代码转为es5语法.
 对于快速定位问题,有很大帮助.
@@ -154,8 +158,6 @@ webpack-dev-server --inline
 
 插件地址 : [https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi][10] 
 
-
-未接触过eslint的,建议阅读: [ESLint 使用入门][11]
 
 ## 参考文章
 1. [为什么使用ES6+][12]
